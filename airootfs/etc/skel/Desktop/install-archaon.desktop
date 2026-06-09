@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Install Archaon OS
+Comment=Install Archaon OS to your system
+Exec=pkexec calamares
+Icon=calamares
+Terminal=false
+Categories=System;
